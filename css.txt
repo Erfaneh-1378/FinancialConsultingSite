@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>شرکت مشاوره مالی</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>شرکت مشاوره مالی</h1>
+            <nav>
+                <ul>
+                    <li><a href="#services">خدمات ما</a></li>
+                    <li><a href="#about">درباره ما</a></li>
+                    <li><a href="#contact">تماس با ما</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section id="hero">
+        <div class="container">
+            <h2>موفقیت مالی شما، ماموریت ماست</h2>
+            <p>ما به شما در مدیریت مالی و سرمایه‌گذاری هوشمندانه کمک می‌کنیم.</p>
+        </div>
+    </section>
+
+    <section id="services">
+        <div class="container">
+            <h2>خدمات ما</h2>
+            <div class="service">
+                <h3>مدیریت سرمایه‌گذاری</h3>
+                <p>بهینه‌سازی سرمایه‌گذاری‌های شما برای بیشترین بازدهی.</p>
+            </div>
+            <div class="service">
+                <h3>مشاوره مالیاتی</h3>
+                <p>کاهش هزینه‌های مالیاتی با برنامه‌ریزی دقیق.</p>
+            </div>
+            <div class="service">
+                <h3>برنامه‌ریزی مالی</h3>
+                <p>برنامه‌ریزی دقیق برای رسیدن به اهداف مالی شما.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="about">
+        <div class="container">
+            <h2>درباره ما</h2>
+            <p>شرکت ما با تیمی از متخصصان با تجربه در حوزه مالی، آماده ارائه راه‌حل‌های هوشمندانه برای شماست.</p>
+        </div>
+    </section>
+
+    <section id="contact">
+        <div class="container">
+            <h2>تماس با ما</h2>
+            <p>ایمیل: info@financialconsulting.com</p>
+            <p>تلفن: 123-456-7890</p>
+            <p>آدرس: خیابان مالی، تهران</p>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>© 2025 تمامی حقوق برای شرکت مشاوره مالی محفوظ است.</p>
+        </div>
+    </footer>
+</body>
+</html>
